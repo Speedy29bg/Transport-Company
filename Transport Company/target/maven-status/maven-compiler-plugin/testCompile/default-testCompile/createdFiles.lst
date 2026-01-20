@@ -1,0 +1,5 @@
+bg\company\transport\validation\VehicleValidatorTest.class
+bg\company\transport\io\TransportCsvImporterTest.class
+bg\company\transport\dao\TransportDaoIntegrationTest.class
+bg\company\transport\validation\EmployeeValidatorTest.class
+bg\company\transport\validation\TransportValidatorTest.class
