@@ -13,6 +13,11 @@ D:\Coding\GitHub\Transport-Company\Transport Company\src\test\java\bg\company\tr
 D:\Coding\GitHub\Transport-Company\Transport Company\src\test\java\bg\company\transport\db\TestEmployeeDelete.java
 D:\Coding\GitHub\Transport-Company\Transport Company\src\test\java\bg\company\transport\db\TestEmployeeList.java
 D:\Coding\GitHub\Transport-Company\Transport Company\src\test\java\bg\company\transport\db\TestEmployeeUpdate.java
+D:\Coding\GitHub\Transport-Company\Transport Company\src\test\java\bg\company\transport\db\TestPaymentSet.java
+D:\Coding\GitHub\Transport-Company\Transport Company\src\test\java\bg\company\transport\db\TestTransportAdd.java
+D:\Coding\GitHub\Transport-Company\Transport Company\src\test\java\bg\company\transport\db\TestTransportDelete.java
+D:\Coding\GitHub\Transport-Company\Transport Company\src\test\java\bg\company\transport\db\TestTransportList.java
+D:\Coding\GitHub\Transport-Company\Transport Company\src\test\java\bg\company\transport\db\TestTransportUpdate.java
 D:\Coding\GitHub\Transport-Company\Transport Company\src\test\java\bg\company\transport\db\TestVehicleAddBus.java
 D:\Coding\GitHub\Transport-Company\Transport Company\src\test\java\bg\company\transport\db\TestVehicleAddTruck.java
 D:\Coding\GitHub\Transport-Company\Transport Company\src\test\java\bg\company\transport\db\TestVehicleDelete.java
