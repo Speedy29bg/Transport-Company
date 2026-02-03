@@ -16,7 +16,7 @@ public class App {
             
             // Initialize database
             ConfigLoader.loadDatabaseProperties();
-            FlywayMigrator.migrate();
+            // FlywayMigrator.migrate(); // Disabled - MySQL 8.4 not supported by Flyway 10.21.0
             
             logger.debug("Database initialized successfully");
             

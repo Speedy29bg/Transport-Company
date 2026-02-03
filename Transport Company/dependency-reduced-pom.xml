@@ -149,7 +149,7 @@
     </dependency>
   </dependencies>
   <properties>
-    <flyway.version>10.8.1</flyway.version>
+    <flyway.version>10.21.0</flyway.version>
     <maven.compiler.source>21</maven.compiler.source>
     <junit.jupiter.version>5.10.2</junit.jupiter.version>
     <maven.compiler.target>21</maven.compiler.target>
